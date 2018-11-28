@@ -38,3 +38,9 @@ assignment statement- has this form:
 Here variable is an identifier and expr is an expression.
 
 garbage collection- the process of automatic memory management. 
+
+input statement- accomplished using an assignment statement combined with a built-in function called input
+<variable> = input ( <prompt>)
+
+eval- when user input is a number, we need a slightly more complicated form of input statement.
+<variable> = eval(input(<prompt>))
