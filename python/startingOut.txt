@@ -42,5 +42,19 @@ garbage collection- the process of automatic memory management.
 input statement- accomplished using an assignment statement combined with a built-in function called input
 <variable> = input ( <prompt>)
 
-eval- when user input is a number, we need a slightly more complicated form of input statement.
+eval- when user input is a number, we need a slightly more complicated form of input statement. eval is short for "evaluate."
 <variable> = eval(input(<prompt>))
+
+simultaneous assignment- Semantically, this tells Python to evaluate all the expressions on the right-hand side and then assign these values to the corresponding variables named on the left-hand side. Here's an example:
+sum, diff = x+y, x-y
+
+Simultaneous assignment can also be used to get multiple numbers from the user in a single input.
+def main () :
+print ("This program computes the average of two exam scores. ")
+score!, score2 = eval (input ("Enter two scores separated by a comma: ") ) average = (score! + score2) I 2
+print ("The average of the scores is: ", average) 
+main ()
+
+The program prompts for two scores separated by a comma.
+score1, score2 = 86, 92
+
