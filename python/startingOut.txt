@@ -70,5 +70,11 @@ loop index- the variable after the keyword in a loop.
 range- a built­ in Python function for generating a sequence of numbers "on the fly." You can think of a range as a sort of implicit description of a sequence of numbers.
 
 Statements like the for loop are called control structures because they control the execution of other parts of the program.
-
 think of control structures in terms of pictures called flowcharts. A flowchart is a diagram that uses boxes to represent different parts of a program and arrows between the boxes to show the sequence of events when the program is running.
+
+
+ch3-
+
+data- The information that is stored and manipulated by computer programs
+
+Floor division - division that results into whole number adjusted to the left in the number line
