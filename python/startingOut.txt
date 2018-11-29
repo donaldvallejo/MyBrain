@@ -58,3 +58,17 @@ main ()
 The program prompts for two scores separated by a comma.
 score1, score2 = 86, 92
 
+definite loop- a loop that will execute a definite number of times
+
+counted loop- built using a Python for statement.
+for i in range(10): X=3.9 *X * (1 - X) print ( x)
+
+body of loop can be any sequence of statments
+
+loop index- the variable after the keyword in a loop.
+
+range- a built­ in Python function for generating a sequence of numbers "on the fly." You can think of a range as a sort of implicit description of a sequence of numbers.
+
+Statements like the for loop are called control structures because they control the execution of other parts of the program.
+
+think of control structures in terms of pictures called flowcharts. A flowchart is a diagram that uses boxes to represent different parts of a program and arrows between the boxes to show the sequence of events when the program is running.
