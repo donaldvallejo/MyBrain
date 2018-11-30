@@ -1,0 +1,19 @@
+csvpath = os.path.join("..", "Resources", "netflix_ratings.csv")
+create path for csv file
+
+with open(output file "w" newline="")
+ will overwrite files 
+it goes row by row
+you can only give it a row 
+so zip helps convert them
+
+zip 
+take lists and turn into stacks
+if i have colums i can turn them to rows with zip
+
+list comprehemtion- one of 4 ways to write a list
+
+
+
+
+
