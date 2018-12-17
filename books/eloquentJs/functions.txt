@@ -1,0 +1,6 @@
+Call Stack - The place where the computer stores this context.
+Closure- being able to reference a specific instance of local vari- ables in an enclosing function.
+a Closure- A function that “closes over” some local variables
+Recursion- A function that calls itself is called recursive
+
+A useful principle is not to add cleverness unless you are absolutely sure you’re going to need it. It can be tempting to write general “frameworks” for every little bit of functionality you come across. Resist that urge. You won’t get any real work done, and you’ll end up writing a lot of code that no one will ever use.
