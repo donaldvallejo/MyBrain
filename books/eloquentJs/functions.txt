@@ -1,12 +1,21 @@
 Call Stack - The place where the computer stores this context.
+
 Closure- being able to reference a specific instance of local vari- ables in an enclosing function.
+
 a Closure- A function that “closes over” some local variables
+
 Recursion- A function that calls itself is called recursive
+
+Correlation- is a measure of dependence between variables
+
+Zero correlation- means the variables are not related, whereas a correlation of one indicates that the two are perfectly related—if you know one, you also know the other.
 
 The two most common ways to access properties in JavaScript are with a dot and with square brackets. Both value.x and value[x] access a property on value—but not necessarily the same property
 
 When using square brackets, the expression between the brackets is evaluated to get the property name. Whereas value.x fetches the property of value named “x”, value[x] tries to evaluate the expression x and uses the result as the property name.
 
 curly braces have two meanings in JavaScript. At the start of a statement, they start a block of statements. In any other position, they describe an object
+
+When using a dot, the part after the dot must be a valid variable name, and it directly names the property. When using square brackets, the expression between the brackets is evaluated to get the property name. Whereas value.x fetches the property of value named “x”, value[x] tries to evaluate the expression x and uses the result as the property name.
 
 A useful principle is not to add cleverness unless you are absolutely sure you’re going to need it. It can be tempting to write general “frameworks” for every little bit of functionality you come across. Resist that urge. You won’t get any real work done, and you’ll end up writing a lot of code that no one will ever use.
